@@ -43,7 +43,7 @@ body {
     margin: 20px;
   }
   
-  .botaobutton {
+  .apertar button {
     background-color: #4CAF50;
     color: white;
     border: none;
@@ -54,7 +54,7 @@ body {
     cursor: pointer;
   }
   
-  .botao button:hover {
+  .apertar button:hover {
     background-color: #45a049;
   }
   
